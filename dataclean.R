@@ -24,29 +24,29 @@ dirtydata = tbl_df(dirtydata) %>%
 
 importdata = dirtydata %>%
   filter(rgCode == 1, ptCode) %>%
-  select(origin = ptCode, destination = rtCode, year = yr, commodity = cmdCode, value = TradeValue, weight = NetWeight)
+  select(origin = ptCode, destination = rtCode, year = yr, commodity = cmdCode, value = TradeValue, netweight = NetWeight)
 
 exportdata = dirtydata %>%
   filter(rgCode == 2) %>%
-  select(origin = rtCode, destination = ptCode, year = yr, commodity = cmdCode, value = TradeValue, weight = NetWeight)
+  select(origin = rtCode, destination = ptCode, year = yr, commodity = cmdCode, value = TradeValue, netweight = NetWeight)
 
 tradedata = rbind(importdata, exportdata)
 rm(importdata, exportdata)
 
-## 去除weight小于0.1的离群点，计算当年平均价格(总价/总量)
+## 去除netweight小于0.1的离群点，计算当年平均价格(总价/总量)
 avgprice = tradedata %>%
-  filter(weight > 0.1) %>%
+  filter(netweight > 0.1) %>%
   group_by(year, commodity) %>%
-  summarise(price = sum(value)/sum(weight))
+  summarise(price = sum(value)/sum(netweight))
 
 ## 查看不同商品不同年的价格走势
 library(ggplot2)
 qplot(y=price,x=year,data=avgprice,color=factor(commodity),geom="line")
 
-## 使用平均价格对weight小于0.1缺失点做插补
+## 使用平均价格对netweight小于0.1缺失点做插补
 tradedata = tradedata %>%
   left_join(avgprice) %>%
-  mutate(weight = ifelse(weight<0.1,value/price,weight))
+  mutate(netweight = ifelse(netweight<0.1,value/price,netweight))
 
 ## 对于重复的汇报结果取平均值
 tradedata %>%
@@ -54,4 +54,4 @@ tradedata %>%
   summarise_each(funs(mean))
 
 ## 输出清洗后的数据
-write.csv(tradedata,"cleaneddata.csv")
+write.csv(tradedata,"cleaneddata.csv", row.names = F)
