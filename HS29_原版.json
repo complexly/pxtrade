@@ -1,0 +1,1468 @@
+{
+    "more": false,
+    "minimumInputLength": 2,
+    "classCode": "HS",
+    "className": "HS (as reported)",
+    "results": [
+        {
+            "id": "290110",
+            "text": "290110 - Saturated",
+            "parent": "2901"
+        },
+        {
+            "id": "290121",
+            "text": "290121 - Unsaturated-- Ethylene",
+            "parent": "2901"
+        },
+        {
+            "id": "290122",
+            "text": "290122 - Unsaturated-- propene (propylene)",
+            "parent": "2901"
+        },
+        {
+            "id": "290123",
+            "text": "290123 - Unsaturated-- Butene (butylene) and isomers thereo",
+            "parent": "2901"
+        },
+        {
+            "id": "290124",
+            "text": "290124 - Unsaturated-- Buta-1,3-diene and isoprene",
+            "parent": "2901"
+        },
+        {
+            "id": "290129",
+            "text": "290129 - Unsaturated-- Other",
+            "parent": "2901"
+        },
+        {
+            "id": "290211",
+            "text": "290211 - Cyclanes, cyclenes and cycloterpenes-- Cyclohexane",
+            "parent": "2902"
+        },
+        {
+            "id": "290219",
+            "text": "290219 - Cyclanes, cyclenes and cycloterpenes-- Other",
+            "parent": "2902"
+        },
+        {
+            "id": "290220",
+            "text": "290220 - Benzene",
+            "parent": "2902"
+        },
+        {
+            "id": "290230",
+            "text": "290230 - Toluene",
+            "parent": "2902"
+        },
+        {
+            "id": "290241",
+            "text": "290241 - Xylenes-- o-Xylene",
+            "parent": "2902"
+        },
+        {
+            "id": "290242",
+            "text": "290242 - Xylenes-- m-Xylene",
+            "parent": "2902"
+        },
+        {
+            "id": "290243",
+            "text": "290243 - Xylenes-- p-Xylene",
+            "parent": "2902"
+        },
+        {
+            "id": "290244",
+            "text": "290244 - Xylenes-- Mixed xylene isomers",
+            "parent": "2902"
+        },
+        {
+            "id": "290250",
+            "text": "290250 - Styrene",
+            "parent": "2902"
+        },
+        {
+            "id": "290260",
+            "text": "290260 - Ethylbenzene",
+            "parent": "2902"
+        },
+        {
+            "id": "290270",
+            "text": "290270 - Cumene",
+            "parent": "2902"
+        },
+        {
+            "id": "290290",
+            "text": "290290 - Other",
+            "parent": "2902"
+        },
+        {
+            "id": "310490",
+            "text": "310490 - Other",
+            "parent": "3104"
+        },
+        {
+            "id": "290311",
+            "text": "290311 - Saturated chlorinated derivatives of acyclic hydrocarbons-- Chloromethane (methyl chloride) and chloroethane (ethylchloride)",
+            "parent": "2903"
+        },
+        {
+            "id": "290312",
+            "text": "290312 - Saturated chlorinated derivatives of acyclic hydrocarbons-- Dichloromethane (methylene chloride)",
+            "parent": "2903"
+        },
+        {
+            "id": "290313",
+            "text": "290313 - Saturated chlorinated derivatives of acyclic hydrocarbons-- Chloroforme (trichloromethane)",
+            "parent": "2903"
+        },
+        {
+            "id": "290314",
+            "text": "290314 - Saturated chlorinated derivatives of acyclic hydrocarbons-- Carbon tetrachloride",
+            "parent": "2903"
+        },
+        {
+            "id": "290315",
+            "text": "290315 - Saturated chlorinated derivatives of acyclic hydrocarbons-- 1,2-Dichloroethane (ethylene dichloride)",
+            "parent": "2903"
+        },
+        {
+            "id": "290316",
+            "text": "290316 - Saturated chlorinated derivatives of acyclic hydrocarbons-- 1,2-Dichloropropane (propylene dichloride) and dichlorobutanes",
+            "parent": "2903"
+        },
+        {
+            "id": "290319",
+            "text": "290319 - Saturated chlorinated derivatives of acyclic hydrocarbons-- Other",
+            "parent": "2903"
+        },
+        {
+            "id": "290321",
+            "text": "290321 - Unsaturated chlorinated derivatives of acyclic hydrocarbons-- Vinyl chloride (chloroethylene)",
+            "parent": "2903"
+        },
+        {
+            "id": "290322",
+            "text": "290322 - Unsaturated chlorinated derivatives of acyclic hydrocarbons-- Trichlolroethylene",
+            "parent": "2903"
+        },
+        {
+            "id": "290323",
+            "text": "290323 - Unsaturated chlorinated derivatives of acyclic hydrocarbons-- Tetrachloroethylene (perchloroethylene)",
+            "parent": "2903"
+        },
+        {
+            "id": "290329",
+            "text": "290329 - Unsaturated chlorinated derivatives of acyclic hydrocarbons-- Other",
+            "parent": "2903"
+        },
+        {
+            "id": "290330",
+            "text": "290330 - Fluorinated, brominated or iodinated derivatives of acyclic hydrocarbons",
+            "parent": "2903"
+        },
+        {
+            "id": "290340",
+            "text": "290340 - Multi-halogen derivatives of acyclic hydrocarbons",
+            "parent": "2903"
+        },
+        {
+            "id": "290351",
+            "text": "290351 - Halogenated derivatives of cyclanic, cyclenic or cycloterpenic hydrocarbons-- 1,2,3,4,5,6-Hexachlorocyclohexane",
+            "parent": "2903"
+        },
+        {
+            "id": "290359",
+            "text": "290359 - Halogenated derivatives of cyclanic, cyclenic or cycloterpenic hydrocarbons-- Other",
+            "parent": "2903"
+        },
+        {
+            "id": "290361",
+            "text": "290361 - Halogenated derivatives of aromatic hydrocarbons-- Chlorobenzene, o-dichlorobenzene and p-dichlorobenzene",
+            "parent": "2903"
+        },
+        {
+            "id": "290362",
+            "text": "290362 - Halogenated derivatives of aromatic hydrocarbons-- Hexachlorobenzene and DDT (1,1,1-trichloro-2,2-bis (p-chlorophenyl)ethane)",
+            "parent": "2903"
+        },
+        {
+            "id": "290369",
+            "text": "290369 - Halogenated derivatives of aromatic hydrocarbons-- Other",
+            "parent": "2903"
+        },
+        {
+            "id": "290410",
+            "text": "290410 - Derivatives containing only sulpho groups, their salts and ethyl esters",
+            "parent": "2904"
+        },
+        {
+            "id": "290420",
+            "text": "290420 - Derivatives containing only nitro or only mitroso groups",
+            "parent": "2904"
+        },
+        {
+            "id": "290490",
+            "text": "290490 - Other",
+            "parent": "2904"
+        },
+        {
+            "id": "290511",
+            "text": "290511 - Saturated monohydric alcohols-- Methanol (methyl alcohol)",
+            "parent": "2905"
+        },
+        {
+            "id": "290512",
+            "text": "290512 - Saturated monohydric alcohols-- Propan-1-ol (propyl alcohol) and propan-2-ol (isopropyl alcohol)",
+            "parent": "2905"
+        },
+        {
+            "id": "290513",
+            "text": "290513 - Saturated monohydric alcohols-- Butan-1-ol (n-butyl alcohol)",
+            "parent": "2905"
+        },
+        {
+            "id": "290514",
+            "text": "290514 - Saturated monohydric alcohols-- Other butanols",
+            "parent": "2905"
+        },
+        {
+            "id": "290515",
+            "text": "290515 - Saturated monohydric alcohols-- Pentanol (amyl alcohol) and isomers thereof",
+            "parent": "2905"
+        },
+        {
+            "id": "290516",
+            "text": "290516 - Saturated monohydric alcohols-- Octanol (octyl alcohol) and isomers thereof",
+            "parent": "2905"
+        },
+        {
+            "id": "290517",
+            "text": "290517 - Saturated monohydric alcohols-- Dodecan-1-ol (lauryl alcohol), hexadecan-1-ol (cetyl alcohol) and octadecan-1-ol (stearyl alcohol)",
+            "parent": "2905"
+        },
+        {
+            "id": "290519",
+            "text": "290519 - Saturated monohydric alcohols-- Other",
+            "parent": "2905"
+        },
+        {
+            "id": "290521",
+            "text": "290521 - Allyl alcohol",
+            "parent": "2905"
+        },
+        {
+            "id": "290522",
+            "text": "290522 - Unsaturated monohydric alcohols-- Acyclic terpene alcohols",
+            "parent": "2905"
+        },
+        {
+            "id": "290529",
+            "text": "290529 - Unsaturated monohydric alcohols-- Other",
+            "parent": "2905"
+        },
+        {
+            "id": "290531",
+            "text": "290531 - Diols-- Ethylene glycol (ethanediol)",
+            "parent": "2905"
+        },
+        {
+            "id": "290532",
+            "text": "290532 - Diols-- Propylene glycol (propane-1,2-diol)",
+            "parent": "2905"
+        },
+        {
+            "id": "290539",
+            "text": "290539 - Diols-- Other",
+            "parent": "2905"
+        },
+        {
+            "id": "290541",
+            "text": "290541 - Other polyhydric alcohols-- 2-Ethyl-2-(hydroxymethyl)propane-1,3-diol (trimethylolpropane)",
+            "parent": "2905"
+        },
+        {
+            "id": "290542",
+            "text": "290542 - Other polyhydric alcohols-- Pentaerythritol",
+            "parent": "2905"
+        },
+        {
+            "id": "290543",
+            "text": "290543 - Other polyhydric alcohols-- Mannitol",
+            "parent": "2905"
+        },
+        {
+            "id": "290544",
+            "text": "290544 - Other polyhydric alcohols-- D-glucitol (sorrbitol)",
+            "parent": "2905"
+        },
+        {
+            "id": "290549",
+            "text": "290549 - Other polyhydric alcohols-- Other",
+            "parent": "2905"
+        },
+        {
+            "id": "290550",
+            "text": "290550 - Halogenated, sulphonated, nitrated or nitrosated derivatives of acyclic alcohols",
+            "parent": "2905"
+        },
+        {
+            "id": "290611",
+            "text": "290611 - Cyclanic, cyclenic or cycloterpenic-- Menthol",
+            "parent": "2906"
+        },
+        {
+            "id": "290612",
+            "text": "290612 - Cyclanic, cyclenic or cycloterpenic-- Cyclohexanol, methylcyclohexanols and dimethylcyclohexanols",
+            "parent": "2906"
+        },
+        {
+            "id": "290613",
+            "text": "290613 - Cyclanic, cyclenic or cycloterpenic-- Sterols and inositols",
+            "parent": "2906"
+        },
+        {
+            "id": "290614",
+            "text": "290614 - Cyclanic, cyclenic or cycloterpenic-- Terpineols",
+            "parent": "2906"
+        },
+        {
+            "id": "290619",
+            "text": "290619 - Cyclanic, cyclenic or cycloterpenic-- Other",
+            "parent": "2906"
+        },
+        {
+            "id": "290621",
+            "text": "290621 - Aromatic-- Benzyl alcohol",
+            "parent": "2906"
+        },
+        {
+            "id": "290629",
+            "text": "290629 - Aromatic-- Other",
+            "parent": "2906"
+        },
+        {
+            "id": "290711",
+            "text": "290711 - Monophenols -- Phenol (hydroxybenzene) and its salts",
+            "parent": "2907"
+        },
+        {
+            "id": "290712",
+            "text": "290712 - Monophenols -- Cresols and their salts",
+            "parent": "2907"
+        },
+        {
+            "id": "290713",
+            "text": "290713 - Monophenols -- Octylphenol, nonylphenol and their isomers; salts thereof",
+            "parent": "2907"
+        },
+        {
+            "id": "290714",
+            "text": "290714 - Monophenols -- Xylenols and their salts",
+            "parent": "2907"
+        },
+        {
+            "id": "290715",
+            "text": "290715 - Monophenols -- Naphthols and their salts",
+            "parent": "2907"
+        },
+        {
+            "id": "290719",
+            "text": "290719 - Monophenols -- Other",
+            "parent": "2907"
+        },
+        {
+            "id": "290721",
+            "text": "290721 - Polyphenols -- Resorcinol and its salts",
+            "parent": "2907"
+        },
+        {
+            "id": "290722",
+            "text": "290722 - Polyphenols -- Hydroquinone (quinol) and its salts",
+            "parent": "2907"
+        },
+        {
+            "id": "290723",
+            "text": "290723 - Polyphenols -- 4,4\u0027-Isopropylidenediphenol (bisphenol A, diphenylolpropane) and its salts",
+            "parent": "2907"
+        },
+        {
+            "id": "290810",
+            "text": "290810 - Derivatives containing only halogen substituents and their salts",
+            "parent": "2908"
+        },
+        {
+            "id": "290820",
+            "text": "290820 - Derivatives containing only sulpho groups, their salts and esters",
+            "parent": "2908"
+        },
+        {
+            "id": "290890",
+            "text": "290890 - Other",
+            "parent": "2908"
+        },
+        {
+            "id": "290911",
+            "text": "290911 - Acyclic ethers and their halogenated, sulphonated, nitrated or nitrosated derivatives -- Diethyl ether",
+            "parent": "2909"
+        },
+        {
+            "id": "290919",
+            "text": "290919 - Acyclic ethers and their halogenated, sulphonated, nitrated or nitrosated derivatives -- Other",
+            "parent": "2909"
+        },
+        {
+            "id": "290920",
+            "text": "290920 - Cyclanic, cyclenic or cycloterpenic ethers and their halogenated, sulphonated, nitrated or nitrosated derivatives",
+            "parent": "2909"
+        },
+        {
+            "id": "290930",
+            "text": "290930 - Aromatic ethers and their halogenated, sulphonated, nitrated or nitrosated derivatives",
+            "parent": "2909"
+        },
+        {
+            "id": "290941",
+            "text": "290941 - Ether-alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives -- 2,2\u0027-Oxydiethanol (diethylene glycol, digol)",
+            "parent": "2909"
+        },
+        {
+            "id": "290942",
+            "text": "290942 - Ether-alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives -- Monomethyl ethers of ethylene glycol or of diethylene glycol",
+            "parent": "2909"
+        },
+        {
+            "id": "290943",
+            "text": "290943 - Ether-alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives -- Monobutyl ethers of ethylene glycol or of diethylene glycol",
+            "parent": "2909"
+        },
+        {
+            "id": "290944",
+            "text": "290944 - Ether-alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives -- Other monoalkylethers of ethylene glycol or of diethylene glycol",
+            "parent": "2909"
+        },
+        {
+            "id": "290949",
+            "text": "290949 - Ether-alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives -- Other",
+            "parent": "2909"
+        },
+        {
+            "id": "290950",
+            "text": "290950 - Ether-phenols, ether-alcohol-phenols and their halogenated, sulphonated, nitrated or nitrosated derivatives",
+            "parent": "2909"
+        },
+        {
+            "id": "290960",
+            "text": "290960 - Alcohol peroxides, ether peroxides, ketone peroxides and their halogenated, sulphonated, nitrated or nitrosated derivatives",
+            "parent": "2909"
+        },
+        {
+            "id": "291010",
+            "text": "291010 - Oxirane (ethylene oxide)",
+            "parent": "2910"
+        },
+        {
+            "id": "291020",
+            "text": "291020 - Methyloxirane (propylene oxide)",
+            "parent": "2910"
+        },
+        {
+            "id": "291030",
+            "text": "291030 - 1-Chloro-2,3-epoxypropane (epichlorohydrin)",
+            "parent": "2910"
+        },
+        {
+            "id": "291090",
+            "text": "291090 - Other",
+            "parent": "2910"
+        },
+        {
+            "id": "291100",
+            "text": "291100 - Acetals and hemiacetals, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives.",
+            "parent": "2911"
+        },
+        {
+            "id": "291211",
+            "text": "291211 - Acyclic aldehydes without other oxygen function -- Methanal (formaldehyde)",
+            "parent": "2912"
+        },
+        {
+            "id": "291212",
+            "text": "291212 - Acyclic aldehydes without other oxygen function -- Ethanal (acetaldehyde)",
+            "parent": "2912"
+        },
+        {
+            "id": "291213",
+            "text": "291213 - Acyclic aldehydes without other oxygen function -- Butanal (butyraldehyde, normal isomer)",
+            "parent": "2912"
+        },
+        {
+            "id": "291219",
+            "text": "291219 - Acyclic aldehydes without other oxygen function -- Other",
+            "parent": "2912"
+        },
+        {
+            "id": "291221",
+            "text": "291221 - Cyclic aldehydes without other oxygen function -- Benzaldehyde",
+            "parent": "2912"
+        },
+        {
+            "id": "291229",
+            "text": "291229 - Cyclic aldehydes without other oxygen function -- Other",
+            "parent": "2912"
+        },
+        {
+            "id": "291230",
+            "text": "291230 - Aldehyde-alcohols",
+            "parent": "2912"
+        },
+        {
+            "id": "291241",
+            "text": "291241 - Aldehyde-ethers, aldehyde-phenols and aldehydes with other oxygen function -- Vanillin (4-hydroxy-3-methoxybenzaldehyde)",
+            "parent": "2912"
+        },
+        {
+            "id": "291242",
+            "text": "291242 - Aldehyde-ethers, aldehyde-phenols and aldehydes with other oxygen function -- Ethylvanillin (3-ethoxy-4-hydroxybenzaldehyde)",
+            "parent": "2912"
+        },
+        {
+            "id": "291249",
+            "text": "291249 - Aldehyde-ethers, aldehyde-phenols and aldehydes with other oxygen function -- Other",
+            "parent": "2912"
+        },
+        {
+            "id": "291250",
+            "text": "291250 - Cyclic polymers of aldehydes",
+            "parent": "2912"
+        },
+        {
+            "id": "291260",
+            "text": "291260 - Paraformaldehyde",
+            "parent": "2912"
+        },
+        {
+            "id": "291300",
+            "text": "291300 - Halogenated, sulphonated, nitrated or nitrosated derivatives of products of heading No. 29.12.",
+            "parent": "2913"
+        },
+        {
+            "id": "291411",
+            "text": "291411 - Acyclic ketones without other oxygen function -- Acetone",
+            "parent": "2914"
+        },
+        {
+            "id": "291412",
+            "text": "291412 - Acyclic ketones without other oxygen function -- Butanone (methyl ethyl ketone)",
+            "parent": "2914"
+        },
+        {
+            "id": "291413",
+            "text": "291413 - Acyclic ketones without other oxygen function -- 4-Methylpentan-2-one (methyl isobutyl ketone)",
+            "parent": "2914"
+        },
+        {
+            "id": "291419",
+            "text": "291419 - Acyclic ketones without other oxygen function -- Other",
+            "parent": "2914"
+        },
+        {
+            "id": "291421",
+            "text": "291421 - Cyclanic, cyclenic or cycloterpenic ketones without other oxygen function -- Camphor",
+            "parent": "2914"
+        },
+        {
+            "id": "291422",
+            "text": "291422 - Cyclanic, cyclenic or cycloterpenic ketones without other oxygen function -- Cyclohexanone and methylcyclohexanones",
+            "parent": "2914"
+        },
+        {
+            "id": "291423",
+            "text": "291423 - Cyclanic, cyclenic or cycloterpenic ketones without other oxygen function -- Ionones and methylionones",
+            "parent": "2914"
+        },
+        {
+            "id": "291429",
+            "text": "291429 - Cyclanic, cyclenic or cycloterpenic ketones without other oxygen function -- Other",
+            "parent": "2914"
+        },
+        {
+            "id": "291430",
+            "text": "291430 - Aromatic ketones without other oxygen function",
+            "parent": "2914"
+        },
+        {
+            "id": "291441",
+            "text": "291441 - 4-hydroxy-4-methylpentan-2-one(diacetone alcohol)",
+            "parent": "2914"
+        },
+        {
+            "id": "291449",
+            "text": "291449 - Ketone-alcohols nes, ketone-aldehydes",
+            "parent": "2914"
+        },
+        {
+            "id": "291450",
+            "text": "291450 - Ketone-phenols and ketones with other oxygen function",
+            "parent": "2914"
+        },
+        {
+            "id": "291461",
+            "text": "291461 - Quinones -- Anthraquinone",
+            "parent": "2914"
+        },
+        {
+            "id": "291469",
+            "text": "291469 - Quinones -- Other",
+            "parent": "2914"
+        },
+        {
+            "id": "291470",
+            "text": "291470 - Halogenated, sulphonated, nitrated or nitrosated derivatives",
+            "parent": "2914"
+        },
+        {
+            "id": "291511",
+            "text": "291511 - Formic acid, its salts and esters -- Formic acid",
+            "parent": "2915"
+        },
+        {
+            "id": "291512",
+            "text": "291512 - Formic acid, its salts and esters -- Salts of formic acid",
+            "parent": "2915"
+        },
+        {
+            "id": "291513",
+            "text": "291513 - Formic acid, its salts and esters -- Esters of formic acid",
+            "parent": "2915"
+        },
+        {
+            "id": "291521",
+            "text": "291521 - Acetic acid and its salts; acetic anhydride -- Acetic acid",
+            "parent": "2915"
+        },
+        {
+            "id": "291522",
+            "text": "291522 - Acetic acid and its salts; acetic anhydride -- Sodium acetate",
+            "parent": "2915"
+        },
+        {
+            "id": "291523",
+            "text": "291523 - Acetic acid and its salts; acetic anhydride -- Cobalt acetates",
+            "parent": "2915"
+        },
+        {
+            "id": "291524",
+            "text": "291524 - Acetic acid and its salts; acetic anhydride -- Acetic anhydride",
+            "parent": "2915"
+        },
+        {
+            "id": "291529",
+            "text": "291529 - Acetic acid and its salts; acetic anhydride -- Other",
+            "parent": "2915"
+        },
+        {
+            "id": "291531",
+            "text": "291531 - Esters of acetic acid -- Ethyl acetate",
+            "parent": "2915"
+        },
+        {
+            "id": "291532",
+            "text": "291532 - Esters of acetic acid -- Vinyl acetate",
+            "parent": "2915"
+        },
+        {
+            "id": "291533",
+            "text": "291533 - Esters of acetic acid -- n-Butyl acetate",
+            "parent": "2915"
+        },
+        {
+            "id": "291534",
+            "text": "291534 - Esters of acetic acid -- Isobutyl acetate",
+            "parent": "2915"
+        },
+        {
+            "id": "291535",
+            "text": "291535 - Esters of acetic acid -- 2-Ethoxyethyl acetate",
+            "parent": "2915"
+        },
+        {
+            "id": "291539",
+            "text": "291539 - Esters of acetic acid -- Other",
+            "parent": "2915"
+        },
+        {
+            "id": "291540",
+            "text": "291540 - Mono-, di- or trichloroacetic acids, their salts and esters",
+            "parent": "2915"
+        },
+        {
+            "id": "291550",
+            "text": "291550 - Propionic acid, its salts and esters",
+            "parent": "2915"
+        },
+        {
+            "id": "291560",
+            "text": "291560 - Butyric acids, valeric acids, their salts and esters",
+            "parent": "2915"
+        },
+        {
+            "id": "291570",
+            "text": "291570 - Palmitic acid, stearic acid, their salts and esters",
+            "parent": "2915"
+        },
+        {
+            "id": "291590",
+            "text": "291590 - Other",
+            "parent": "2915"
+        },
+        {
+            "id": "291611",
+            "text": "291611 - Unsaturated acyclic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Acrylic acid and its salts",
+            "parent": "2916"
+        },
+        {
+            "id": "291612",
+            "text": "291612 - Unsaturated acyclic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Esters of acrylic acid",
+            "parent": "2916"
+        },
+        {
+            "id": "291613",
+            "text": "291613 - Unsaturated acyclic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Methacrylic acid and its salts",
+            "parent": "2916"
+        },
+        {
+            "id": "291614",
+            "text": "291614 - Unsaturated acyclic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Esters of methacrylic acid",
+            "parent": "2916"
+        },
+        {
+            "id": "291615",
+            "text": "291615 - Unsaturated acyclic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Oleic, linoleic or linolenic acids, their salts and esters",
+            "parent": "2916"
+        },
+        {
+            "id": "291619",
+            "text": "291619 - Unsaturated acyclic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Other",
+            "parent": "2916"
+        },
+        {
+            "id": "291620",
+            "text": "291620 - Cyclanic, cyclenic or cycloterpenic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives",
+            "parent": "2916"
+        },
+        {
+            "id": "291631",
+            "text": "291631 - Aromatic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Benzoic acid, its salts and esters",
+            "parent": "2916"
+        },
+        {
+            "id": "291632",
+            "text": "291632 - Aromatic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Benzoyl peroxide and benzoyl chloride",
+            "parent": "2916"
+        },
+        {
+            "id": "291633",
+            "text": "291633 - Phenylacetic acid, its salts \u0026 esters",
+            "parent": "2916"
+        },
+        {
+            "id": "291639",
+            "text": "291639 - Aromatic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Other",
+            "parent": "2916"
+        },
+        {
+            "id": "291711",
+            "text": "291711 - Acyclic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Oxalic acid, its salts and esters",
+            "parent": "2917"
+        },
+        {
+            "id": "291712",
+            "text": "291712 - Acyclic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Adipic acid, its salts and esters",
+            "parent": "2917"
+        },
+        {
+            "id": "291713",
+            "text": "291713 - Acyclic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Azelaic acid, sebacic acid, their salts and esters",
+            "parent": "2917"
+        },
+        {
+            "id": "291714",
+            "text": "291714 - Acyclic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Maleic anhydride",
+            "parent": "2917"
+        },
+        {
+            "id": "291719",
+            "text": "291719 - Acyclic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Other",
+            "parent": "2917"
+        },
+        {
+            "id": "291720",
+            "text": "291720 - Cyclanic, cyclenic or cycloterpenic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives",
+            "parent": "2917"
+        },
+        {
+            "id": "291731",
+            "text": "291731 - Aromatic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Dibutyl orthophthalates",
+            "parent": "2917"
+        },
+        {
+            "id": "291732",
+            "text": "291732 - Aromatic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Dioctyl orthophthalates",
+            "parent": "2917"
+        },
+        {
+            "id": "291733",
+            "text": "291733 - Aromatic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Dinonyl or didecyl orthophthalates",
+            "parent": "2917"
+        },
+        {
+            "id": "291734",
+            "text": "291734 - Aromatic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Other esters of orthophthalic acid",
+            "parent": "2917"
+        },
+        {
+            "id": "291735",
+            "text": "291735 - Aromatic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Phthalic anhydride",
+            "parent": "2917"
+        },
+        {
+            "id": "291736",
+            "text": "291736 - Aromatic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Terephthalic acid and its salts",
+            "parent": "2917"
+        },
+        {
+            "id": "291737",
+            "text": "291737 - Aromatic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Dimethyl terephthalate",
+            "parent": "2917"
+        },
+        {
+            "id": "291739",
+            "text": "291739 - Aromatic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Other",
+            "parent": "2917"
+        },
+        {
+            "id": "291811",
+            "text": "291811 - Carboxylic acids with alcohol function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Lactic acid, its salts and esters",
+            "parent": "2918"
+        },
+        {
+            "id": "291812",
+            "text": "291812 - Carboxylic acids with alcohol function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Tartaric acid",
+            "parent": "2918"
+        },
+        {
+            "id": "291813",
+            "text": "291813 - Carboxylic acids with alcohol function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Salts and esters of tartaric acid",
+            "parent": "2918"
+        },
+        {
+            "id": "291814",
+            "text": "291814 - Carboxylic acids with alcohol function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Citric acid",
+            "parent": "2918"
+        },
+        {
+            "id": "291815",
+            "text": "291815 - Carboxylic acids with alcohol function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Salts and esters of citric acid",
+            "parent": "2918"
+        },
+        {
+            "id": "291816",
+            "text": "291816 - Carboxylic acids with alcohol function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Gluconic acid, its salts and esters",
+            "parent": "2918"
+        },
+        {
+            "id": "291817",
+            "text": "291817 - Carboxylic acids with alcohol function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Phenylglycolic acid (mandelic acid), its salts and esters",
+            "parent": "2918"
+        },
+        {
+            "id": "291819",
+            "text": "291819 - Carboxylic acids with alcohol function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Other",
+            "parent": "2918"
+        },
+        {
+            "id": "291821",
+            "text": "291821 - Carboxylic acids with phenol function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Salicylic acid and its salts",
+            "parent": "2918"
+        },
+        {
+            "id": "291822",
+            "text": "291822 - Carboxylic acids with phenol function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- O-Acetylsalicylic acid, its salts and esters",
+            "parent": "2918"
+        },
+        {
+            "id": "291823",
+            "text": "291823 - Other esters of salicylic acid and their salts",
+            "parent": "2918"
+        },
+        {
+            "id": "291829",
+            "text": "291829 - Carboxylic acids with alcohol function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives -- Other",
+            "parent": "2918"
+        },
+        {
+            "id": "291830",
+            "text": "291830 - Carboxylic acids with aldehyde or ketone function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives",
+            "parent": "2918"
+        },
+        {
+            "id": "291890",
+            "text": "291890 - Other",
+            "parent": "2918"
+        },
+        {
+            "id": "291900",
+            "text": "291900 - Phosphoric esters and their salts, including lactophosphates; their halogenated, sulphonated, nitrated or nitrosated derivatives.",
+            "parent": "2919"
+        },
+        {
+            "id": "292010",
+            "text": "292010 - Thiophosphoric esters (phosphorothioates) and their salts; their halogenated, sulphonated, nitrated or nitrosated derivatives",
+            "parent": "2920"
+        },
+        {
+            "id": "292090",
+            "text": "292090 - Other",
+            "parent": "2920"
+        },
+        {
+            "id": "292111",
+            "text": "292111 - Acyclic monoamines and their derivatives; salts thereof -- Methylamine, di- or trimethylamine and their salts",
+            "parent": "2921"
+        },
+        {
+            "id": "292112",
+            "text": "292112 - Acyclic monoamines and their derivatives; salts thereof -- Diethylamine and its salts",
+            "parent": "2921"
+        },
+        {
+            "id": "292119",
+            "text": "292119 - Acyclic monoamines and their derivatives; salts thereof -- Other",
+            "parent": "2921"
+        },
+        {
+            "id": "292121",
+            "text": "292121 - Acyclic polyamines and their derivatives; salts thereof -- Ethylenediamine and its salts",
+            "parent": "2921"
+        },
+        {
+            "id": "292122",
+            "text": "292122 - Acyclic polyamines and their derivatives; salts thereof -- Hexamethylenediamine and its salts",
+            "parent": "2921"
+        },
+        {
+            "id": "292129",
+            "text": "292129 - Acyclic polyamines and their derivatives; salts thereof -- Other",
+            "parent": "2921"
+        },
+        {
+            "id": "292130",
+            "text": "292130 - Cyclanic, cyclenic or cycloterpenic mono- or polyamines, and their derivatives; salts thereof",
+            "parent": "2921"
+        },
+        {
+            "id": "292141",
+            "text": "292141 - Aromatic monoamines and their derivatives; salts thereof : -- Aniline and its salts",
+            "parent": "2921"
+        },
+        {
+            "id": "292142",
+            "text": "292142 - Aromatic monoamines and their derivatives; salts thereof : -- Aniline derivatives and their salts",
+            "parent": "2921"
+        },
+        {
+            "id": "292143",
+            "text": "292143 - Aromatic monoamines and their derivatives; salts thereof : -- Toluidines and their derivatives; salts thereof",
+            "parent": "2921"
+        },
+        {
+            "id": "292144",
+            "text": "292144 - Aromatic monoamines and their derivatives; salts thereof : -- Diphenylamine and its derivatives; salts thereof",
+            "parent": "2921"
+        },
+        {
+            "id": "292145",
+            "text": "292145 - Aromatic monoamines and their derivatives; salts thereof : -- 1-Naphthylamine (alpha-naphthylamine), 2-naphthylamine (beta-naphthylamine) and their derivatives; salts thereof",
+            "parent": "2921"
+        },
+        {
+            "id": "292149",
+            "text": "292149 - Aromatic monoamines and their derivatives; salts thereof -- Other",
+            "parent": "2921"
+        },
+        {
+            "id": "292151",
+            "text": "292151 - Aromatic polyamines and their derivatives; salts thereof -- o-, m-, p-Phenylenediamine, diaminotoluenes, and their derivatives; salts thereof",
+            "parent": "2921"
+        },
+        {
+            "id": "292159",
+            "text": "292159 - Aromatic polyamines and their derivatives; salts thereof -- Other",
+            "parent": "2921"
+        },
+        {
+            "id": "292211",
+            "text": "292211 - Amino-alcohols, their ethers and esters, other than those containing more than one kind of oxygen function; salts thereof -- Monoethanolamine and its salts",
+            "parent": "2922"
+        },
+        {
+            "id": "292212",
+            "text": "292212 - Amino-alcohols, their ethers and esters, other than those containing more than one kind of oxygen function; salts thereof -- Diethanolamine and its salts",
+            "parent": "2922"
+        },
+        {
+            "id": "292213",
+            "text": "292213 - Amino-alcohols, their ethers and esters, other than those containing more than one kind of oxygen function; salts thereof -- Triethanolamine and its salts",
+            "parent": "2922"
+        },
+        {
+            "id": "292219",
+            "text": "292219 - Amino-alcohols, their ethers and esters, other than those containing more than one kind of oxygen function; salts thereof - Other",
+            "parent": "2922"
+        },
+        {
+            "id": "292221",
+            "text": "292221 - Amino-naphthols and other amino-phenols, their ethers and esters, other than those containing more than one kind of oxygen function; salts thereof -- Aminohydroxynaphthalenesulphonic acids and their salts",
+            "parent": "2922"
+        },
+        {
+            "id": "292222",
+            "text": "292222 - Amino-naphthols and other amino-phenols, their ethers and esters, other than those containing more than one kind of oxygen function; salts thereof -- Anisidines, dianisidines, phenetidines, and their salts",
+            "parent": "2922"
+        },
+        {
+            "id": "292229",
+            "text": "292229 - Amino-naphthols and other amino-phenols, their ethers and esters, other than those containing more than one kind of oxygen function; salts thereof -- Other",
+            "parent": "2922"
+        },
+        {
+            "id": "292230",
+            "text": "292230 - Amino-aldehydes, amino-ketones and amino-quinones, other than those containing more than one kind of oxygen function; salts thereof",
+            "parent": "2922"
+        },
+        {
+            "id": "292241",
+            "text": "292241 - Amino-acids and their esters, other than those containing more than one kind of oxygen function; salts thereof -- Lysine and its esters; salts thereof",
+            "parent": "2922"
+        },
+        {
+            "id": "292242",
+            "text": "292242 - Amino-acids and their esters, other than those containing more than one kind of oxygen function; salts thereof -- Glutamic acid and its salts",
+            "parent": "2922"
+        },
+        {
+            "id": "292249",
+            "text": "292249 - Amino-acids and their esters, other than those containing more than one kind of oxygen function; salts thereof -- Other",
+            "parent": "2922"
+        },
+        {
+            "id": "292250",
+            "text": "292250 - Amino-alcohol-phenols, amino-acid-phenols and other amino-compounds with oxygen function",
+            "parent": "2922"
+        },
+        {
+            "id": "292310",
+            "text": "292310 - Choline and its salts",
+            "parent": "2923"
+        },
+        {
+            "id": "292320",
+            "text": "292320 - Lecithins and other phosphoaminolipids",
+            "parent": "2923"
+        },
+        {
+            "id": "292390",
+            "text": "292390 - Other",
+            "parent": "2923"
+        },
+        {
+            "id": "292410",
+            "text": "292410 - Acyclic amides (including acyclic carbamates) and their derivatives; salts thereof",
+            "parent": "2924"
+        },
+        {
+            "id": "292421",
+            "text": "292421 - Cyclic amides (including cyclic carbamates) and their derivatives; salts thereof -- Ureines and their derivatives; salts thereof",
+            "parent": "2924"
+        },
+        {
+            "id": "292429",
+            "text": "292429 - Cyclic amides (including cyclic carbamates) and their derivatives; salts thereof -- Other",
+            "parent": "2924"
+        },
+        {
+            "id": "292511",
+            "text": "292511 - Imides and their derivatives; salts thereof -- Saccharin and its salts",
+            "parent": "2925"
+        },
+        {
+            "id": "292519",
+            "text": "292519 - Imides and their derivatives; salts thereof -- Other",
+            "parent": "2925"
+        },
+        {
+            "id": "292520",
+            "text": "292520 - Imines and their derivatives; salts thereof",
+            "parent": "2925"
+        },
+        {
+            "id": "292800",
+            "text": "292800 - Organic derivatives of hydrazine or of hydroxylamine.",
+            "parent": "2928"
+        },
+        {
+            "id": "292910",
+            "text": "292910 - Isocyanates",
+            "parent": "2929"
+        },
+        {
+            "id": "292990",
+            "text": "292990 - Other",
+            "parent": "2929"
+        },
+        {
+            "id": "293010",
+            "text": "293010 - Dithiocarbonates (xanthates)",
+            "parent": "2930"
+        },
+        {
+            "id": "293020",
+            "text": "293020 - Thiocarbamates and dithiocarbamates",
+            "parent": "2930"
+        },
+        {
+            "id": "293030",
+            "text": "293030 - Thiuram mono-, di- or tetrasulphides",
+            "parent": "2930"
+        },
+        {
+            "id": "293040",
+            "text": "293040 - Methionine",
+            "parent": "2930"
+        },
+        {
+            "id": "293090",
+            "text": "293090 - Other",
+            "parent": "2930"
+        },
+        {
+            "id": "293100",
+            "text": "293100 - Other organo-inorganic compounds.",
+            "parent": "2931"
+        },
+        {
+            "id": "293211",
+            "text": "293211 - Compounds containing an unfused furan ring (whether or not hydrogenated) in the structure -- Tetrahydrofuran",
+            "parent": "2932"
+        },
+        {
+            "id": "293212",
+            "text": "293212 - Compounds containing an unfused furan ring (whether or not hydrogenated) in the structure -- 2-Furaldehyde (furfuraldehyde)",
+            "parent": "2932"
+        },
+        {
+            "id": "293213",
+            "text": "293213 - Compounds containing an unfused furan ring (whether or not hydrogenated) in the structure -- Furfuryl alcohol and tetrahydrofurfuryl alcohol",
+            "parent": "2932"
+        },
+        {
+            "id": "293219",
+            "text": "293219 - Compounds containing an unfused furan ring (whether or not hydrogenated) in the structure -- Other",
+            "parent": "2932"
+        },
+        {
+            "id": "293221",
+            "text": "293221 - Lactones -- Coumarin, methylcoumarins and ethylcoumarins",
+            "parent": "2932"
+        },
+        {
+            "id": "293229",
+            "text": "293229 - Lactones -- Other lactones",
+            "parent": "2932"
+        },
+        {
+            "id": "293290",
+            "text": "293290 - Heterocyclic compound,oxygen hetero-atom(s) only,nes",
+            "parent": "2932"
+        },
+        {
+            "id": "293311",
+            "text": "293311 - Compounds containing an unfused pyrazole ring (whether or not hydrogenated) in the structure -- Phenazone (antipyrin) and its derivatives",
+            "parent": "2933"
+        },
+        {
+            "id": "293319",
+            "text": "293319 - Compounds containing an unfused pyrazole ring (whether or not hydrogenated) in the structure -- Other",
+            "parent": "2933"
+        },
+        {
+            "id": "293321",
+            "text": "293321 - Compounds containing an unfused imidazole ring (whether or not hydrogenated) in the structure -- Hydantoin and its derivatives",
+            "parent": "2933"
+        },
+        {
+            "id": "293329",
+            "text": "293329 - Compounds containing an unfused imidazole ring (whether or not hydrogenated) in the structure -- Other",
+            "parent": "2933"
+        },
+        {
+            "id": "293331",
+            "text": "293331 - Compounds containing an unfused pyridine ring (whether or not hydrogenated) in the structure -- Pyridine and its salts",
+            "parent": "2933"
+        },
+        {
+            "id": "293339",
+            "text": "293339 - Compounds containing an unfused pyridine ring (whether or not hydrogenated) in the structure -- Other",
+            "parent": "2933"
+        },
+        {
+            "id": "293340",
+            "text": "293340 - Compounds containing a quinoline or isoquinoline ring-system (whether or not hydrogenated), not further fused",
+            "parent": "2933"
+        },
+        {
+            "id": "293351",
+            "text": "293351 - Compounds containing a pyrimidine ring (whether or not hydrogenated) or piperazine ring in the structure -- Malonylurea (barbituric acid) and its derivatives; salts thereof",
+            "parent": "2933"
+        },
+        {
+            "id": "293359",
+            "text": "293359 - Compounds containing a pyrimidine ring (whether or not hydrogenated) or piperazine ring in the structure -- Other",
+            "parent": "2933"
+        },
+        {
+            "id": "293361",
+            "text": "293361 - Compounds containing an unfused triazine ring (whether or not hydrogenated) in the structure - Compounds containing an unfused triazine ring (whether or not hydrogenated) in the structure -- Melamine",
+            "parent": "2933"
+        },
+        {
+            "id": "293369",
+            "text": "293369 - Compounds containing an unfused triazine ring (whether or not hydrogenated) in the structure -- Other",
+            "parent": "2933"
+        },
+        {
+            "id": "293371",
+            "text": "293371 - Lactams -- 6-Hexanelactam (epsilon-caprolactam)",
+            "parent": "2933"
+        },
+        {
+            "id": "293379",
+            "text": "293379 - Lactams -- Other lactams",
+            "parent": "2933"
+        },
+        {
+            "id": "293390",
+            "text": "293390 - Other",
+            "parent": "2933"
+        },
+        {
+            "id": "293410",
+            "text": "293410 - Compounds containing an unfused thiazole ring (whether or not hydrogenated) in the structure",
+            "parent": "2934"
+        },
+        {
+            "id": "293420",
+            "text": "293420 - Compounds containing a benzothiazole ring-system (whether or not hydrogenated), not further fused",
+            "parent": "2934"
+        },
+        {
+            "id": "293430",
+            "text": "293430 - Compounds containing a phenothiazine ring-system (whether or not hydrogenated), not further fused",
+            "parent": "2934"
+        },
+        {
+            "id": "293490",
+            "text": "293490 - Other",
+            "parent": "2934"
+        },
+        {
+            "id": "293500",
+            "text": "293500 - Sulphonamides.",
+            "parent": "2935"
+        },
+        {
+            "id": "293610",
+            "text": "293610 - Provitamins, unmixed",
+            "parent": "2936"
+        },
+        {
+            "id": "293621",
+            "text": "293621 - Vitamins and their derivatives, unmixed -- Vitamins A and their derivatives",
+            "parent": "2936"
+        },
+        {
+            "id": "293622",
+            "text": "293622 - Vitamins and their derivatives, unmixed -- Vitamin B1 and its derivatives",
+            "parent": "2936"
+        },
+        {
+            "id": "293623",
+            "text": "293623 - Vitamins and their derivatives, unmixed -- Vitamin B2 and its derivatives",
+            "parent": "2936"
+        },
+        {
+            "id": "293624",
+            "text": "293624 - Vitamins and their derivatives, unmixed -- D- or DL-Pantothenic acid (Vitamin B3 or Vitamin B5) and its derivatives",
+            "parent": "2936"
+        },
+        {
+            "id": "293625",
+            "text": "293625 - Vitamins and their derivatives, unmixed - Vitamins and their derivatives, unmixed -- Vitamin B6 and its derivatives",
+            "parent": "2936"
+        },
+        {
+            "id": "293626",
+            "text": "293626 - Vitamins and their derivatives, unmixed -- Vitamin B12 and its derivatives",
+            "parent": "2936"
+        },
+        {
+            "id": "293627",
+            "text": "293627 - Vitamins and their derivatives, unmixed - Vitamin C and its derivatives",
+            "parent": "2936"
+        },
+        {
+            "id": "293628",
+            "text": "293628 - Vitamins and their derivatives, unmixed -- Vitamin E and its derivatives",
+            "parent": "2936"
+        },
+        {
+            "id": "293629",
+            "text": "293629 - Vitamins and their derivatives, unmixed -- Other vitamins and their derivatives",
+            "parent": "2936"
+        },
+        {
+            "id": "293690",
+            "text": "293690 - Other, including natural concentrates",
+            "parent": "2936"
+        },
+        {
+            "id": "293710",
+            "text": "293710 - Pituitary (anterior) or similar hormones, and their derivatives",
+            "parent": "2937"
+        },
+        {
+            "id": "293721",
+            "text": "293721 - Adrenal cortical hormones and their derivatives -- Cortisone, hydrocortisone, prednisone (dehydrocortisone) and prednisolone (dehydrohydrocortisone)",
+            "parent": "2937"
+        },
+        {
+            "id": "293722",
+            "text": "293722 - Adrenal cortical hormones and their derivatives -- Halogenated derivatives of adrenal cortical hormones",
+            "parent": "2937"
+        },
+        {
+            "id": "293729",
+            "text": "293729 - Adrenal cortical hormones and their derivatives -- Other",
+            "parent": "2937"
+        },
+        {
+            "id": "293791",
+            "text": "293791 - Other hormones and their derivatives; other steroids used primarily as hormones -- Insulin and its salts",
+            "parent": "2937"
+        },
+        {
+            "id": "293792",
+            "text": "293792 - Other hormones and their derivatives; other steroids used primarily as hormones -- Oestrogens and progestogens",
+            "parent": "2937"
+        },
+        {
+            "id": "293799",
+            "text": "293799 - Other hormones and their derivatives; other steroids used primarily as hormones -- Other",
+            "parent": "2937"
+        },
+        {
+            "id": "293810",
+            "text": "293810 - Rutoside (rutin) and its derivatives",
+            "parent": "2938"
+        },
+        {
+            "id": "293890",
+            "text": "293890 - Other",
+            "parent": "2938"
+        },
+        {
+            "id": "293910",
+            "text": "293910 - Alkaloids of opium and their derivatives; salts thereof",
+            "parent": "2939"
+        },
+        {
+            "id": "293921",
+            "text": "293921 - Alkaloids of cinchona and their derivatives; salts thereof -- Quinine and its salts",
+            "parent": "2939"
+        },
+        {
+            "id": "293929",
+            "text": "293929 - Alkaloids of cinchona and their derivatives; salts thereof -- Other",
+            "parent": "2939"
+        },
+        {
+            "id": "293930",
+            "text": "293930 - Caffeine and its salts",
+            "parent": "2939"
+        },
+        {
+            "id": "293940",
+            "text": "293940 - Ephedrines, salts, in bulk",
+            "parent": "2939"
+        },
+        {
+            "id": "293950",
+            "text": "293950 - Theophylline and aminophylline (theophylline- ethylenediamine) and their derivatives; salts thereof",
+            "parent": "2939"
+        },
+        {
+            "id": "293960",
+            "text": "293960 - Rye ergot alkaloids, derivatives, in bulk, salts",
+            "parent": "2939"
+        },
+        {
+            "id": "293970",
+            "text": "293970 - Nicotine and its salts",
+            "parent": "2939"
+        },
+        {
+            "id": "293990",
+            "text": "293990 - Other",
+            "parent": "2939"
+        },
+        {
+            "id": "294000",
+            "text": "294000 - Sugars, chemically pure, other than sucrose, lactose, maltose, glucose and fructose; sugar ethers and sugar esters, and their salts, other than products of heading No. 29.37, 29.38 or 29.39.",
+            "parent": "2940"
+        },
+        {
+            "id": "294110",
+            "text": "294110 - Penicillins and their derivatives with a penicillanic acid structure; salts thereof",
+            "parent": "2941"
+        },
+        {
+            "id": "294120",
+            "text": "294120 - Streptomycins and their derivatives; salts thereof",
+            "parent": "2941"
+        },
+        {
+            "id": "294130",
+            "text": "294130 - Tetracyclines and their derivatives; salts thereof",
+            "parent": "2941"
+        },
+        {
+            "id": "294140",
+            "text": "294140 - Chloramphenicol and its derivatives; salts thereof",
+            "parent": "2941"
+        },
+        {
+            "id": "294150",
+            "text": "294150 - Erythromycin and its derivatives; salts thereof",
+            "parent": "2941"
+        },
+        {
+            "id": "294190",
+            "text": "294190 - Other",
+            "parent": "2941"
+        },
+        {
+            "id": "294200",
+            "text": "294200 - Other organic compounds.",
+            "parent": "2942"
+        }
+    ]
+}
