@@ -49,7 +49,7 @@ tradedata = tradedata %>%
   mutate(netweight = ifelse(netweight<0.1,value/price,netweight))
 
 ## 对于重复的汇报结果取平均值
-tradedata %>%
+tradedata = tradedata %>%
   group_by(origin, destination, year, commodity) %>%
   summarise_each(funs(mean))
 
