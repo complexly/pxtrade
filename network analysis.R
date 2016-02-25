@@ -78,3 +78,21 @@ par(opar)
 plot(2004:2014, sapply(pxlist, average.path.length), xlab="year", ylab="average path length",type = "b")
 plot(2004:2014, sapply(pxlist, function(x) mean(transitivity(x, type = "local"), na.rm = T)), xlab="year", ylab="average clustering coef",type = "b")
 plot(2004:2014, sapply(pxlist, function(x) modularity(cluster_infomap(x, e.weights = E(x)$value))), xlab="year", ylab="modularity",type = "b")
+
+
+
+
+
+
+res.deg=matrix(0,165,11)
+for (i in 1:11){
+  res.deg[match(V(pxlist[[i]])$name,V(pxmixed.simp)$name),i]=degree(pxlist[[i]])
+}
+res.core=matrix(0,165,11)
+for (i in 1:11){
+  res.core[match(V(pxlist[[i]])$name,V(pxmixed.simp)$name),i]=coreness(pxlist[[i]])
+}
+matplot(t(res.deg),type="l")
+matplot(t(res.core),type="l")
+
+# 整体贸易量、关键节点变化、70年
