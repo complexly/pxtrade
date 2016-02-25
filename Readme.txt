@@ -1,19 +1,19 @@
 ## From ZZQ
 
-Á½¸öÔ­°æjsonÎªHS29ÉÌÆ·±àÂëºÍ¹ú¼ÒµÄ´úÂë
+ä¸¤ä¸ªåŽŸç‰ˆjsonä¸ºHS29å•†å“ç¼–ç å’Œå›½å®¶çš„ä»£ç 
 
-removeNotNumberÎªÉ¸Ñ¡Êý×ÖµÄ³ÌÐò
+removeNotNumberä¸ºç­›é€‰æ•°å­—çš„ç¨‹åº
 
-scraperÎªÅÀ³æ
+scraperä¸ºçˆ¬è™«
 
-Total.backupsÎªËùÓÐÅÀºÃµÄÊý¾Ý£¬ÀïÃæ04-14Äê°üÀ¨ËùÓÐPXÁ´µÄºÍÒ»²¿·ÖÃºÌ¿Á´µÄÃ³Ò×Êý¾Ý
+Total.backupsä¸ºæ‰€æœ‰çˆ¬å¥½çš„æ•°æ®ï¼Œé‡Œé¢04-14å¹´åŒ…æ‹¬æ‰€æœ‰PXé“¾çš„å’Œä¸€éƒ¨åˆ†ç…¤ç‚­é“¾çš„è´¸æ˜“æ•°æ®
 
-±àÂëËµÃ÷ÎªÊý¾ÝtitleµÄÖÐÎÄÐÅÏ¢
+ç¼–ç è¯´æ˜Žä¸ºæ•°æ®titleçš„ä¸­æ–‡ä¿¡æ¯
 
 
 ## From LY
 
-datacleanÎªÊý¾ÝÇåÏ´´úÂë
+datacleanä¸ºæ•°æ®æ¸…æ´—ä»£ç 
 
-cleaneddataÎªÇåÏ´ºóµÄÃ³Ò×Êý¾Ý£¬±ßÁÐ±íÐÎÊ½£¬¿ÉÒÔÖ±½Ó×öÍøÂç·ÖÎöÁË
+cleaneddataä¸ºæ¸…æ´—åŽçš„è´¸æ˜“æ•°æ®ï¼Œè¾¹åˆ—è¡¨å½¢å¼ï¼Œå¯ä»¥ç›´æŽ¥åšç½‘ç»œåˆ†æžäº†
 
